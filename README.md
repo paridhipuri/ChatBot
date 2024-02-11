@@ -7,7 +7,7 @@ Features
 - Advanced Natural Language Processing (NLP)
 - Niche-specific design
 
-Tech used:
+Tech Stack:
 * Python
 * Keras
 * NumPy
